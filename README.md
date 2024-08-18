@@ -1,5 +1,5 @@
 # FAKENEWS-DETECTION
-# 1.Import all the needed libraries such as NumPy , Pandas , Sklearn , Matplotlib .The news dataset from the Kaggle we have taken the train csv file.
+1.Import all the needed libraries such as NumPy , Pandas , Sklearn , Matplotlib .The news dataset from the Kaggle we have taken the train csv file.
 
 2. Identify the StopWords in English then Load the dataset to a pandas DataFrame.
 3. Count the number of missing values in the dataset.Check how many rows and column the dataset has. Replace the null values with empty string . Explore each variable and identify it’s shape.
